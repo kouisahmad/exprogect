@@ -1,0 +1,10 @@
+@media screen and(min-width:768px) {
+  .ahmad {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.Messi {
+  background: red;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+}
